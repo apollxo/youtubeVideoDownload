@@ -1,5 +1,5 @@
 
-<img src='./thumbnail.png' width='100%' height='480'>
+<img src='./thumbnail.png' width='100%'>
 
 
 ## How to install:
